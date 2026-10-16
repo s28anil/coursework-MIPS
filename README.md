@@ -87,21 +87,3 @@ To avoid cross-system compatibility issues, you must make sure that your code ru
 ## 5. Submitting your code
 
 Once you have pushed all of your changes to GitHub and you are happy with your code and your test results, you are finished! At the deadline, we will revoke your write access to this repository and grade your work. The last version committed before the deadline is the one that will be marked. 
-
-## 6. Good scholarly practice
-
-Please remember the good scholarly practice requirements of the University regarding work for credit. You can find guidance on the School page:
-
-https://informatics.ed.ac.uk/taught-students/all-students/your-studies/academic-misconduct
-
-This also has links to the relevant University pages.
-
-As mentioned, your code will be subject to further automatic and manual review after the deadline. Submitted code will be checked using the detection software for similarity and AI-generated code. Courseworks are **individual**, and we expect everyone to submit their sole, independent work.
-
-While you must work on this coursework on your own, you can discuss general ideas with other students without sharing actual code or solutions. You are not allowed to use ChatGPT or other Generative AI tools for this coursework (even if this might be tempting and chances are that ChatGPT would be able to create a solution). Instead, if you need help with the coursework, please make use of the support provided to you. It is important for your learning that you develop  the knowledge, skills and understanding associated with the learning outcomes of this coursework.
-
-Extensions or Extra Time Adjustments (ETA) are not permitted. If assessed coursework is submitted late, a mark of zero will be given.
-
-## 7. Asking questions
-
-If you have questions about MIPS, you should consult the lecture slides, lab materials and the appendix of the Patterson and Hennessy course textbook. If you have questions about the coursework, please start by **checking existing discussions** on Piazza. You should only start a new discussion if you cannot find the answer in the existing posts. It is quite possible that other students will already have encountered and solved the same problem and will be able to help you. The TA will also monitor Piazza and clarify things as necessary, after allowing time for student discussion to take place. Please be reminded that academic misconduct regulations also apply to Piazza, so you should **not** post coursework solutions or code snippets publicly. If in doubt, make your question private, and an instructor will check if the post is acceptable.
